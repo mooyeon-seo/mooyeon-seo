@@ -4,8 +4,8 @@
 - 💞️ I’m looking for a full-time position in Canada, or remote.
 - 📫 How to reach me through [my email](mailto:mooyeon.seo@raspberrysherbet.ca)
 
-### You can take a look at my portfolio projects at
-- https://raspberrysherbet.ca
+### You can take a look at my projects at
+- [https://raspberrysherbet.ca](https://raspberrysherbet.ca/)
 
 <!---
 mooyeon-seo/mooyeon-seo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

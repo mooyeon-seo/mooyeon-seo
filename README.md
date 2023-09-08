@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently following Full-Stack Engineer Career Path on CodeCademy
 - 💞️ I’m looking for a full-time position in Canada, or remote.
-- 📫 How to reach me [through my email](mailto:mooyeon.seo@raspberrysherbet.ca)
+- 📫 How to reach me through [my email](mailto:mooyeon.seo@raspberrysherbet.ca)
 
 <!---
 mooyeon-seo/mooyeon-seo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

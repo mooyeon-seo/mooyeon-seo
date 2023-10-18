@@ -4,7 +4,7 @@
 - 📫 How to reach me through [my email](mailto:mooyeon.seo@raspberrysherbet.ca)
 - 🌱 I’m currently following Full-Stack Engineer Career Path on CodeCademy
 
-### 👨🏻‍💻 You can take a look at my projects at
+### 👨🏻‍💻 You can take a look at my business
 - [raspberrysherbet.ca](https://raspberrysherbet.ca/)
 
 <!---

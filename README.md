@@ -1,2 +1,2 @@
-## My Resume
-![Resume](assets/resume.pdf)
+## [Resume.pdf](https://github.com/mooyeon-seo/mooyeon-seo/files/13244115/Resume.November.2023.pdf)
+

@@ -10,4 +10,4 @@
 
 ## Contact
 
-email: mooyeon.seo@raspberrysherbet.ca
+Email: mooyeon.seo@raspberrysherbet.ca

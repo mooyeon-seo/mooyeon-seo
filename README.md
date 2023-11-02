@@ -7,5 +7,5 @@
 ### 👨🏻‍💻 You can take a look at my business
 - [raspberrysherbet.ca](https://raspberrysherbet.ca/)
 
-### Take a look at my resume
-- [Resume November 2023.pdf](https://github.com/mooyeon-seo/mooyeon-seo/files/13243939/Resume.November.2023.pdf)
+### Resume
+- [resume.pdf](https://github.com/mooyeon-seo/mooyeon-seo/files/13243939/Resume.November.2023.pdf)

@@ -7,7 +7,5 @@
 ### 👨🏻‍💻 You can take a look at my business
 - [raspberrysherbet.ca](https://raspberrysherbet.ca/)
 
-<!---
-mooyeon-seo/mooyeon-seo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Take a look at my resume
+- [Resume November 2023.pdf](https://github.com/mooyeon-seo/mooyeon-seo/files/13243939/Resume.November.2023.pdf)

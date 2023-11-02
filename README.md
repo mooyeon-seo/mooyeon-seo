@@ -1,4 +1,4 @@
-![Resume November 2023](https://github.com/mooyeon-seo/mooyeon-seo/assets/144402254/b2237e5c-d0bc-4535-aefd-6a7450c2c679)
+![Resume](https://github.com/mooyeon-seo/mooyeon-seo/assets/144402254/c14876dd-3dd9-4caf-be69-f89f3f49079b =500px)
 
 ### 👨🏻‍💻 You can 
 take a look at my business

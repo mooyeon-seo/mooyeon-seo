@@ -1,13 +1,9 @@
 # Introduction
 
-- Hi 👋, my name is Mooyeon Seo, a recent graduate from University of Waterloo with computer science major.
-- I am a full-stack developer
-- I can speak in Javascript, HTML, CSS, SASS, Swift, Python, C, C++, Bash, SQL and more.
-
+- Hi 👋, my name is Mooyeon Seo
+- From guarding the Korean DMZ during my military service to graduating with distinction from the University of Waterloo, I’ve embraced every challenge with grit and curiosity. My journey hasn’t been without obstacles—two years of job hunting pushed me to master TypeScript, Java, and AWS, crafting projects like Moophoria to showcase my skills. Landing my first software engineering role was a milestone, but it’s just the beginning. Each day, I strive to push boundaries, turn ideas into impactful solutions, and grow beyond "insufficient"—because growth is my constant companion.
 -----
-
-[To find out more about me, check out my resume](https://github.com/mooyeon-seo/mooyeon-seo/files/13244115/Resume.November.2023.pdf)
 
 ## Contact
 
-Email: mooyeon.seo@raspberrysherbet.ca
+Email: mooyeon.dev@gmail.com
